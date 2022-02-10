@@ -26,10 +26,10 @@ My task was to search for various journals, articles, conference papers in the f
 ### Dated: 1-2-2022
 Continuing my research work, I also looked for various simulation tools and software for simulatig the wireless sensor network. I installed MATLAB software for the simulation. Since I was not familiar with the software, its working, shortcuts, syntax, etc. it took me some time to get started woth the software.
 
-### Dated 2-2-2022
+### Dated: 2-2-2022
 Today, my task was to create a basic network in MATLAB. I was able to deploy some nodes at random and plot a graph for th same. In addition to this, I searched for some more content on Clustering protocols in WSN, Clusturing algorithms in WSn, etc.
 
-### Dated 3-2-2022, 4-2-2022, 7-2-2022, 8-2-2022
+### Dated: 3-2-2022, 4-2-2022, 7-2-2022, 8-2-2022
 I continued my reading and searching of survey papers and making notes for the same. Also I got more familiar with MATLAB while creating and executing various programs.
 
 ### Dated: 9-2-2022
