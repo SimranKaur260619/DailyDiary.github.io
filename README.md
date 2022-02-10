@@ -1,5 +1,7 @@
 # DailyDairy
 
+## Welcome to my Daily Diary
+
 I started my 6 months training at Software Deveopment Centre, GNDEC from Jan,2022. But due to some reasons, I shifted my training to under the guidance of Dr.Amandeep Kaur Sohal (Assistant Professor) at Computer Science Department, GNDEC. I am keeping the record of my daily progress as DaliyDiary blog.
 
 ##### Dated: 24-1-2022
